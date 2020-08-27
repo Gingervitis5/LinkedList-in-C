@@ -1,0 +1,251 @@
+/home/grahammix/Documents/CSCD240/Lab16/cmake-build-debug/Lab16
+Please enter the name of the input file ../input/Animals.txt
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 1
+
+Baboon - 6
+Salmon - 6
+Bear - 4
+Spider - 6
+Tarantula - 9
+Dolphin - 7
+Gorilla - 7
+Giraffe - 7
+Lion - 4
+Tiger - 5
+Elephant - 8
+Rhino - 5
+Bird - 4
+Seal - 4
+Bat - 3
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 2
+Please enter a word Gecko
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 3
+Please enter a word Fish
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 1
+
+Gecko - 5
+Baboon - 6
+Salmon - 6
+Bear - 4
+Spider - 6
+Tarantula - 9
+Dolphin - 7
+Gorilla - 7
+Giraffe - 7
+Lion - 4
+Tiger - 5
+Elephant - 8
+Rhino - 5
+Bird - 4
+Seal - 4
+Bat - 3
+Fish - 4
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 4
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 1
+
+Baboon - 6
+Bat - 3
+Bear - 4
+Bird - 4
+Dolphin - 7
+Elephant - 8
+Fish - 4
+Gecko - 5
+Giraffe - 7
+Gorilla - 7
+Lion - 4
+Rhino - 5
+Salmon - 6
+Seal - 4
+Spider - 6
+Tarantula - 9
+Tiger - 5
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 5
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 1
+
+Baboon - 6
+Bat - 3
+Bear - 4
+Bird - 4
+Dolphin - 7
+Elephant - 8
+Fish - 4
+Gecko - 5
+Giraffe - 7
+Gorilla - 7
+Lion - 4
+Rhino - 5
+Salmon - 6
+Seal - 4
+Spider - 6
+Tarantula - 9
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 6
+Please enter a word Baboon
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 1
+
+Bat - 3
+Bear - 4
+Bird - 4
+Dolphin - 7
+Elephant - 8
+Fish - 4
+Gecko - 5
+Giraffe - 7
+Gorilla - 7
+Lion - 4
+Rhino - 5
+Salmon - 6
+Seal - 4
+Spider - 6
+Tarantula - 9
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 6
+Please enter a word Horse
+Word not found in list.
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 7
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 1
+
+Empty List
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 5
+Empty List. Nothing to remove.
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 6
+Please enter a word Horse
+
+Empty List. Nothing to remove.
+
+1) Print the list
+2) Add First
+3) Add Last
+4) Sort
+5) Remove Last
+6) Remove Item
+7) Clear the list
+8) Quit
+Choice --> 8

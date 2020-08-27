@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Lab16.dir/linkedList/linkedList.c.o CMakeFiles/Lab16.dir/listUtils/listUtils.c.o CMakeFiles/Lab16.dir/utils/fileUtils.c.o CMakeFiles/Lab16.dir/utils/utils.c.o CMakeFiles/Lab16.dir/words/word.c.o CMakeFiles/Lab16.dir/cscd240Lab16.c.o  -o Lab16 
